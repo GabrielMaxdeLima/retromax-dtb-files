@@ -91,7 +91,7 @@ Créditos ao autor por compartilhar os arquivos que possibilitam este trabalho.
 
 ## 📫 Contato
 
-📧 Email: [retromaxoficial@gmail.com](mailto:retromaxoficial@gmail.com)  
+📧 Email: [retromaxgame@gmail.com](mailto:retromaxgame@gmail.com)  
 📱 WhatsApp: (11) 95322-1176  
 📷 Instagram: [@retromax_games](https://instagram.com/retromax_games)  
 🎮 YouTube: [Retromax Games](https://www.youtube.com/@retromaxgames)
