@@ -1,0 +1,9 @@
+📜 Novidades da versão 2.1 - Retromax Games
+
+✅ Nova interface com abas
+📦 Arquivos de tela agora compactados (.zip)
+📥 Extração automática ao selecionar a tela
+🎯 Detecção de DTB por hash aprimorada
+🛡️ Aviso claro para DTBs desconhecidas
+🧩 Preparado para expansão com novas telas
+🎨 Tema fixo escuro com azul (Retromax Style)
