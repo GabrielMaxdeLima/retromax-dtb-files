@@ -53,7 +53,7 @@ Este aplicativo é compatível **somente com consoles ORIGINAIS**:
 
 Nunca remova o cartão com o console ligado! Isso pode danificar o sistema do seu SD.
 
-> Dica: use com cartões Origias para funcionamento garantido 😉
+> Dica: use com cartões Originais para funcionamento garantido 😉
 
 ---
 
